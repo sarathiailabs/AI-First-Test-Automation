@@ -1,8 +1,9 @@
-# 🚀 Playwright Automation Engineering Bootcamp
+# 🚀 Playwright Automation Engineering Cohort
 
 ## Day 1 – JavaScript Fundamentals
 
 ### Topics
+
 - Variables
 - Data Types
 - Operators
@@ -13,6 +14,7 @@
 - Objects
 
 ### Assignment
+
 1. Student Marks Calculator
 2. Largest Number from Array
 3. Employee Object CRUD
@@ -22,6 +24,7 @@
 ## Day 2 – Modern JavaScript + OOP
 
 ### Modern JavaScript
+
 - let & const
 - Arrow Functions
 - Template Literals
@@ -36,6 +39,7 @@
 - Closures
 
 ### OOP Concepts
+
 - Classes
 - Objects
 - Encapsulation
@@ -44,6 +48,7 @@
 - Abstraction
 
 ### Assignment
+
 1. Student Management System
 2. Shopping Cart Total
 3. Employee & Manager Classes
@@ -53,6 +58,7 @@
 ## Day 3 – Async JavaScript + TypeScript
 
 ### JavaScript
+
 - Promises
 - Async/Await
 - Error Handling
@@ -60,6 +66,7 @@
 - Debugging Techniques
 
 ### TypeScript
+
 - Why TypeScript
 - Types
 - Interfaces
@@ -70,6 +77,7 @@
 - SOLID Principles (Introduction)
 
 ### Assignment
+
 1. Fetch Users from API
 2. TypeScript Interfaces
 3. Banking System using OOP
@@ -79,6 +87,7 @@
 ## Day 4 – Git & GitHub
 
 ### Topics
+
 - Version Control Concepts
 - Git Fundamentals
 - Clone
@@ -92,6 +101,7 @@
 - Code Reviews
 
 ### Assignment
+
 1. Create Repository
 2. Create Feature Branch
 3. Raise Pull Request
@@ -102,6 +112,7 @@
 ## Day 5 – Software Testing Fundamentals
 
 ### Topics
+
 - SDLC
 - STLC
 - Agile & Scrum
@@ -124,6 +135,7 @@
 - Exploratory Testing
 
 ### Assignment
+
 1. Explain SDLC
 2. Explain STLC
 3. Explain Bug Lifecycle
@@ -135,6 +147,7 @@
 ## Day 6 – Web Fundamentals for Testers
 
 ### Topics
+
 - Client-Server Architecture
 - Browser Architecture
 - HTTP & HTTPS
@@ -152,6 +165,7 @@
 - JWT Tokens
 
 ### Assignment
+
 1. Analyze Login Request
 2. Inspect Network Calls
 3. Identify JWT Flow
@@ -163,6 +177,7 @@
 ## Day 7 – Playwright Fundamentals + Locators
 
 ### Playwright Fundamentals
+
 - Introduction to Playwright
 - Architecture
 - Installation & Setup
@@ -173,6 +188,7 @@
 - Multi-browser Execution
 
 ### Locators
+
 - CSS Selectors
 - XPath
 - getByRole()
@@ -187,6 +203,7 @@
 - Locator Best Practices
 
 ### Assignment
+
 1. Launch Browser
 2. Validate Page Title
 3. Create 15 Locator Examples
@@ -196,6 +213,7 @@
 ## Day 8 – UI Actions + Assertions
 
 ### UI Actions
+
 - Click
 - Fill
 - Hover
@@ -206,6 +224,7 @@
 - Navigation
 
 ### Assertions & Synchronization
+
 - Auto Wait
 - Explicit Wait
 - Load States
@@ -216,6 +235,7 @@
 - Flaky Test Reduction
 
 ### Assignment
+
 1. Login Automation
 2. Search Automation
 3. Assertion Practice
@@ -225,6 +245,7 @@
 ## Day 9 – Forms + Windows + Frames
 
 ### Topics
+
 - Forms
 - Dropdowns
 - Checkboxes
@@ -238,6 +259,7 @@
 - Alerts
 
 ### Assignment
+
 1. Registration Form Automation
 2. File Upload Validation
 3. Window Handling
@@ -247,6 +269,7 @@
 ## Day 10 – Advanced UI Automation
 
 ### Topics
+
 - Dynamic Elements
 - Dynamic Tables
 - Pagination
@@ -260,6 +283,7 @@
 - Retry Mechanisms
 
 ### Assignment
+
 1. Dynamic Table Validation
 2. Download Validation
 3. Multi-Step Form Automation
@@ -271,6 +295,7 @@
 ## Day 11 – API Testing Fundamentals
 
 ### Topics
+
 - API Fundamentals
 - REST Architecture
 - HTTP Methods
@@ -286,6 +311,7 @@
 - DELETE
 
 ### Assignment
+
 1. GET Validation
 2. POST Validation
 3. DELETE Validation
@@ -295,6 +321,7 @@
 ## Day 12 – Advanced API Testing
 
 ### Topics
+
 - Authentication
 - JWT
 - OAuth Concepts
@@ -305,6 +332,7 @@
 - Environment Variables
 
 ### Assignment
+
 1. Login API
 2. Token Extraction
 3. CRUD Flow
@@ -316,6 +344,7 @@
 ## Day 13 – Framework Design
 
 ### Topics
+
 - Framework Design Principles
 - Page Object Model (POM)
 - Component Object Model
@@ -325,6 +354,7 @@
 - Error Handling
 
 ### Assignment
+
 1. Create Login Page
 2. Create Dashboard Page
 3. Refactor Existing Tests
@@ -334,6 +364,7 @@
 ## Day 14 – Fixtures + Hooks + Test Data
 
 ### Topics
+
 - Fixtures
 - Hooks
 - Shared Authentication
@@ -342,6 +373,7 @@
 - Configuration Files
 
 ### Assignment
+
 1. Login Fixture
 2. Test Data File
 3. Environment Configuration
@@ -351,6 +383,7 @@
 ## Day 15 – Advanced Framework Features
 
 ### Topics
+
 - Logging Framework
 - Parallel Execution
 - Tags
@@ -363,6 +396,7 @@
 - Debugging
 
 ### Assignment
+
 1. Parallel Execution
 2. Custom Reporter
 3. Debug Failed Tests
@@ -374,6 +408,7 @@
 ## Day 16 – CI/CD + Docker
 
 ### CI/CD
+
 - CI/CD Fundamentals
 - GitHub Actions
 - Workflow Design
@@ -385,6 +420,7 @@
 - Secrets Management
 
 ### Docker
+
 - Docker Fundamentals
 - Images
 - Containers
@@ -394,6 +430,7 @@
 - CI/CD Integration
 
 ### Assignment
+
 1. Create GitHub Actions Pipeline
 2. Dockerize Framework
 3. Execute Tests in Docker
@@ -403,6 +440,7 @@
 ## Day 17 – AI for Test Automation + Career Preparation
 
 ### AI Topics
+
 - AI in Software Testing
 - Prompt Engineering
 - ChatGPT for Test Cases
@@ -412,6 +450,7 @@
 - Self-Healing Concepts
 
 ### Career Preparation
+
 - Resume Building
 - LinkedIn Optimization
 - Portfolio Preparation
@@ -424,6 +463,7 @@
 ## Day 18 – E-Commerce UI Automation Framework
 
 ### Features
+
 - Login
 - Search
 - Add to Cart
@@ -431,6 +471,7 @@
 - Order Validation
 
 ### Must Include
+
 - POM
 - Fixtures
 - Reports
@@ -441,6 +482,7 @@
 ## Day 19 – API Automation Framework
 
 ### Features
+
 - Authentication
 - CRUD APIs
 - API Chaining
@@ -452,6 +494,7 @@
 ## Day 20 – Enterprise Automation Framework
 
 ### Must Include
+
 - UI Automation
 - API Automation
 - POM
@@ -461,6 +504,7 @@
 - Docker Integration
 
 ### Final Deliverable
+
 - Production-Ready Playwright Automation Framework
 - GitHub Portfolio Project
 - Resume Project
